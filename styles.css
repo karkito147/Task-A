@@ -40,6 +40,7 @@ body {
 
   .card.top {
     top: 0;
+    opacity: 30%;
   }
 
   .card.middle {
@@ -48,6 +49,7 @@ body {
 
   .card.bottom {
     top: 300px; 
+    opacity: 30%;
   }
   form{
     width: 20px;
