@@ -7,9 +7,7 @@
    git clone https://github.com/yourusername/repository-name.git
 
 2. **Technology Choice and Rationale**
-
-## Technology Choice and Rationale
-
+   
 - **HTML**: Used to structure the layout of the draggable cards and ensure semantic clarity.
 - **CSS**: Provides responsive and visually appealing designs with gradient backgrounds, transitions, and card layouts.
 - **JavaScript**: Implements drag-and-drop functionality, updates classes dynamically, and handles event listeners.
