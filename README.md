@@ -46,6 +46,4 @@ These technologies were chosen for their lightweight nature, simplicity, and abi
 
 - Introduce smooth animations for card transitions to improve the user experience.
 
-**Integration with Frameworks**:
-
-- Explore frameworks like React or Vue.js to make the application more modular and scalable.
+## Time Spent on the project : 6 hour
